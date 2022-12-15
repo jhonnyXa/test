@@ -1,0 +1,2 @@
+ver como subir los archivos
+para git y como se modifican en vim

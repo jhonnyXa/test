@@ -1,0 +1,64 @@
+.titulo {
+    text-align: center;
+    background-color:#bdbdbd56;
+    height: 268px;
+    margin: 1%;
+}
+
+.fibra{
+    text-align: left;
+    background-color: #38FE86;
+    height: 50px;
+    width: 50px;
+
+}
+
+.SM{
+    text-align: left;
+    background-color: #355E86;
+    height: 50px;
+    width: 50px;
+
+}
+
+.MM{
+    text-align: left;
+    background-color: #8e3867;
+    height: 50px;
+    width: 50px;
+
+}
+
+.Contorno{
+    height: 225px;
+    position: relative;
+    border: 15px inset #a11f40;
+
+}
+
+.centrar{
+    margin: 0;
+    position: relative;
+    top: 50%;
+    left: 70%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%,-50%);
+}
+
+.general{
+    background-color: #437ab9;
+}
+
+.descrip{
+    background-color: rgba(30, 250, 10, 25%);
+}
+
+.dedicacion{
+    font-family: mv boli;
+    font-size: 25px;
+    color: #f5f5f5;
+}
+
+.fuerza{
+    font-size: 75px;
+}
