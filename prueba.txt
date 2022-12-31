@@ -2,3 +2,6 @@ ver como subir los archivos
 para git y como se modifican en vim
 
 la segunda prueba
+
+
+para unir
